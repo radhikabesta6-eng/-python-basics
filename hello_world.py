@@ -1,4 +1,6 @@
 #add hello,world! program 
 print("Hello,world!")
-#add i'm radhika program
-print ("i'm radhika")
+#add I'M Radhika program
+print ("I'M Radhika")
+print ("welcome to python programming!")
+print ("Let's start coding!")
